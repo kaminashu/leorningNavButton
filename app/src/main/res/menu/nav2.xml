@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/asosiyId"
+        android:icon="@drawable/home"
+        android:title="Asosiy" />
+    <item
+        android:id="@+id/katigoryId"
+        android:icon="@drawable/search3"
+        android:title="Katigory" />
+    <item
+        android:id="@+id/settingId"
+        android:icon="@drawable/setting"
+        android:title="Sozlamalar" />
+</menu>
